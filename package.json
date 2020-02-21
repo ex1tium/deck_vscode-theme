@@ -1,0 +1,21 @@
+{
+    "name": "deck",
+    "displayName": "deck",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "deck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/deck-color-theme.json"
+            }
+        ]
+    }
+}
